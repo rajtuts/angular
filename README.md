@@ -5,6 +5,7 @@
 | 1    | Pipes | | |
 | 1    | Directives | | |
 | 1    | Modules | | |
+| 1    | Data Services over HTTP | | |
 | 1    | Routing | | |
 | 1    | Lifecycle Hooks | | |
 | 1    | Services | | |
