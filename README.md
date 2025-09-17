@@ -1,5 +1,5 @@
 # Angular Topics
-| SNo  | Topic |  | Comments | | 
+| SNo  | Topic | Status | Comments | | 
 | ---  | ---    | ---      | --- | --- |
 | 1    | Components | | |
 | 1    | Pipes | | |
