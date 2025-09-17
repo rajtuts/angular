@@ -18,3 +18,7 @@
 | 1    | Packaging Applications | | |
 | 1    | Components | | |
 | 1    | Components | | |
+
+
+| Other Libraries with Angular  | Comments | 
+| ---  | ---    |
